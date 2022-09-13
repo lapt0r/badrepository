@@ -1,0 +1,2 @@
+# badrepository
+it's bad
